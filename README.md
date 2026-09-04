@@ -11,10 +11,13 @@ Tenho interesse em conhecer diferentes áreas da tecnologia e gosto de aprender 
 
 🚀 Meus Projetos
 Projeto	Link	Tecnologias
+
 Projeto 1	🔗 https://github.com/giocassini/LIMA.AULA2/tree/ed6137cd0b5a65e51499f8bda124544acd706656/AULA11 Ver projeto
 	HTML / CSS
+
 Projeto 2	🔗 https://github.com/giocassini/LIMA.AULA2/blob/ed6137cd0b5a65e51499f8bda124544acd706656/AULA12/index.html Ver projeto
 	HTML / CSS / JavaScript
+	
 Projeto 3	🔗 https://github.com/giocassini/LIMA.AULA2/tree/ed6137cd0b5a65e51499f8bda124544acd706656/AULA15 Ver projeto
 
 
