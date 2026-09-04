@@ -1,39 +1,65 @@
-👋 Olá! Eu sou Giovanna Cassini
+# 👋 Olá, eu sou a Giovanna!
 
-Sou estudante de Desenvolvimento de Sistemas e atualmente estudo no SENAI em parceria com o SESI. Estou aprendendo sobre programação, desenvolvimento Web, GitHub e criação de projetos.
-Tenho interesse em conhecer diferentes áreas da tecnologia e gosto de aprender coisas novas através de projetos e experiências práticas.
-🎯 Tecnologias que estou aprendendo atualmente:
-- Front-End
+🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
+📚 Estudante do Ensino Médio no SESI
 
+---
 
-- Back-End
+## 💻 Sobre mim
 
+Sou estudante de Desenvolvimento de Sistemas e estou sempre
+buscando aprender coisas novas na área de tecnologia.
 
-🚀 Meus Projetos
-Projeto	Link	Tecnologias
+---
 
-Projeto 1	🔗 https://github.com/giocassini/LIMA.AULA2/tree/ed6137cd0b5a65e51499f8bda124544acd706656/AULA11 Ver projeto
-	HTML / CSS
+## 🛠️ Tecnologias
 
-Projeto 2	🔗 https://github.com/giocassini/LIMA.AULA2/blob/ed6137cd0b5a65e51499f8bda124544acd706656/AULA12/index.html Ver projeto
-	HTML / CSS / JavaScript
-	
-Projeto 3	🔗 https://github.com/giocassini/LIMA.AULA2/tree/ed6137cd0b5a65e51499f8bda124544acd706656/AULA15 Ver projeto
+- 🐍 Python
+- 🐙 GitHub
+- 💻 CMD
+- 📊 Flowgorithm
+- 🌐 HTML
+- 🎨 CSS
 
+---
 
+## 🎓 Formação
 
+**Desenvolvimento de Sistemas — SENAI**
 
-	Em desenvolvimento
-💡 Sobre Mim
-🎓 Estudo Desenvolvimento de Sistemas no SENAI, junto com o SESI
-💻 Estou aprendendo sobre programação e desenvolvimento Web
-🎯 Meu objetivo é continuar aprendendo e evoluir na área de tecnologia
-📚 Gosto de aprender coisas novas e experimentar novos hobbies
-🏐 Gosto de praticar esportes, principalmente vôlei
-🏋️ Gosto de academia e aulas de funcional
-💃 Também gosto de dança
-✝️ "Tudo posso naquele que me fortalece." — Filipenses 4:13
-📫 Como me encontrar
-GitHub:(https://github.com/giocassini/LIMA.AULA2.git)
+**Ensino Médio — SESI**
+
+---
+
+## 🚀 Meus projetos
+
+| Projeto | Descrição | Tecnologias | Link |
+|---|---|---|---|
+| 🦙 **Alpacas World** | Site acadêmico de uma agência de viagens | HTML, CSS | [Ver projeto](LINK) |
+| ⚽ **Tabela do Brasileirão** | Página com a tabela e informações do Campeonato Brasileiro | HTML | [Ver projeto](LINK) |
+| 📖 **Site de Biografia** | Site desenvolvido para apresentar a biografia de uma celebridade | HTML, CSS | [Ver projeto](LINK) |
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats]()
+
+---
+
+## 🐍 Minha atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafacarvalhoo/rafacarvalhoo/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+---
+
+## 🔗 LinkedIn
+
+[![LinkedIn]()
+
+---
+
 
 ⭐ Obrigada por visitar meu perfil!
