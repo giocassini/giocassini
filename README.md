@@ -34,5 +34,6 @@ Projeto 3	🔗 https://github.com/giocassini/LIMA.AULA2/tree/ed6137cd0b5a65e5149
 💃 Também gosto de dança
 ✝️ "Tudo posso naquele que me fortalece." — Filipenses 4:13
 📫 Como me encontrar
+\[!\[GitHub](https://github.com/giocassini/LIMA.AULA2.git)
 
 ⭐ Obrigada por visitar meu perfil!
